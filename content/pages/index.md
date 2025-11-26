@@ -5,7 +5,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Cogeco email
+        title: Cogeco account
         tagline: Feature 2
         subtitle: Protect yourself and your network
         text: "Cogeco Security+\_When\_you’re connected, you’re protected.\n\nProtect your privacy, your devices and your family with an advanced security package.\n\n"
