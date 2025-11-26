@@ -2,7 +2,7 @@
     "text": "",
     "socialLinks": [],
     "legalLinks": [],
-    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
+    "copyrightText": "<div style=\"text-align: left\">```\n```</div>\n\n<div style=\"text-align: left\"></div>\n\n",
     "colors": "bg-light-fg-dark",
     "type": "Footer"
 }
