@@ -13,13 +13,6 @@ sections:
           - pr-7
     type: DividerSection
   - type: GenericSection
-    title:
-      text: Generic section with a video
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-      type: TitleBlock
     subtitle: Section with a video subtitle
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
