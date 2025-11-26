@@ -7,7 +7,7 @@ sections:
       - type: FeaturedItem
         title: Cogeco email
         tagline: Feature 2
-        subtitle: ''
+        subtitle: Protect yourself and your network
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
