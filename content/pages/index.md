@@ -13,7 +13,7 @@ sections:
           - pr-7
     type: DividerSection
   - type: GenericSection
-    subtitle: Section with a video subtitle
+    subtitle: ''
     text: ''
     actions: []
     elementId: null
