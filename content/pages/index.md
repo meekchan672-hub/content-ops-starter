@@ -1,5 +1,5 @@
 ---
-title: Home
+title: New profile
 slug: /
 sections:
   - type: CarouselSection
