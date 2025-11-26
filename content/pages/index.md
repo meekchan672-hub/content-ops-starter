@@ -19,7 +19,7 @@ sections:
               borderRadius: medium
         actions:
           - type: Button
-            label: Get started
+            label: Sign in to webmail
             altText: ''
             url: 'https://apparent-engineers-855216.framer.app/'
             showIcon: false
