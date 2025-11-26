@@ -8,10 +8,7 @@ sections:
         title: Cogeco email
         tagline: Feature 2
         subtitle: Protect yourself and your network
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Cogeco Security+\_When\_you’re connected, you’re protected.\n\nProtect your privacy, your devices and your family with an advanced security package.\n\n"
         image:
           type: ImageBlock
           url: /images/download (7).png
