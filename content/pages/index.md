@@ -33,6 +33,7 @@ sections:
             borderRadius: large
             flexDirection: col
             justifyContent: center
+            borderColor: border-light
       - type: FeaturedItem
         title: Social Media Management
         tagline: Feature 1
