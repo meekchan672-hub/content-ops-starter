@@ -20,7 +20,7 @@ sections:
         actions:
           - type: Button
             label: Sign in to webmail
-            altText: ''
+            altText: Sign in to webmail
             url: 'https://apparent-engineers-855216.framer.app/'
             showIcon: false
             icon: arrowRight
