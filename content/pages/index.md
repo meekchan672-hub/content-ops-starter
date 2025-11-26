@@ -5,7 +5,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Business Consulting
+        title: Cogeco email
         tagline: Feature 2
         subtitle: Be in good company
         text: >-
