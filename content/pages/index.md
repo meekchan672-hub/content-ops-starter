@@ -14,7 +14,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/download (7).png
           altText: Business consulting
           elementId: ''
           styles:
